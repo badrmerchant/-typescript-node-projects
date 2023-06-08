@@ -10,3 +10,9 @@ git remote set-url origin https://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@githu
 
 
 git push -u origin main
+...............................................................
+      >git push -u origin main
+remote: Permission to badrmerchant/-typescript-node-projects.git denied to badrmerchant.
+fatal: unable to access 'https://github.com/badrmerchant/-typescript-node-projects.git/':
+ The requested URL returned error: 403
+sol:?????????
