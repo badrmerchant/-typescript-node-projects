@@ -16,3 +16,6 @@ remote: Permission to badrmerchant/-typescript-node-projects.git denied to badrm
 fatal: unable to access 'https://github.com/badrmerchant/-typescript-node-projects.git/':
  The requested URL returned error: 403
 sol:?????????
+Finally, select the scopes you want to grant the corresponding access to the generated 
+access token. Make sure to select the minimum required scopes otherwise you will still
+ have troubles performing certain Git Operations.
